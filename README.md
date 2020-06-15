@@ -1,4 +1,4 @@
-# netflix_flutter_clone
+# spotify_flutter_clone
 
 A new Flutter project.
 
